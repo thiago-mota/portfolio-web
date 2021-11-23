@@ -1,0 +1,46 @@
+body{
+    background-color:#FDF6CB;
+    text-align: center;
+    margin: 0 950px;
+    font-size: 18px;
+}
+
+div {
+    background-color: #A3CDD9;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.about-me, .skills, .recommendations, .social-media{
+    margin-bottom: 10vh ;
+}
+
+hr {
+    height: 8px;
+    background-color:#FDF6CB;
+    border-radius: 10px;
+}
+
+section > ul{
+    
+    display: inline-block;
+    text-align: start;
+}
+
+.social-media {
+    margin: 0 auto;
+   }
+
+.social-media ul {
+    background-color:#FDF6CB;
+    width: 300px;
+    height: 50px;
+    padding: 30px;
+    margin: 0 auto;
+}
+
+.social-media ul li {
+        display: inline;
+        margin-right: 30px;
+        margin-left: 50px;
+      }
