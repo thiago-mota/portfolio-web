@@ -11,6 +11,15 @@ div {
     padding: 10px;
 }
 
+section.header ul li {
+    list-style: none;
+    display: inline;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+    margin: 0 auto;
+}
+
 .about-me, .skills, .recommendations, .social-media{
     margin-bottom: 10vh ;
 }
@@ -21,7 +30,7 @@ hr {
     border-radius: 10px;
 }
 
-section > ul{
+section ul{
     
     display: inline-block;
     text-align: start;
